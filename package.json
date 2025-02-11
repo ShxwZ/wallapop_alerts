@@ -9,8 +9,6 @@
     "open": "^10.1.0",
     "ora": "^8.2.0",
     "path": "^0.12.7",
-    "play-sound": "^1.1.6",
-    "puppeteer": "^24.2.0",
-    "terminal-link": "^3.0.0"
+    "puppeteer": "^24.2.0"
   }
 }
